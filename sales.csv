@@ -1,0 +1,51 @@
+sale_id,sale_date,city,product,category,quantity,unit_price,sales_channel,salesperson,total_sales
+1001,2026-01-03,Hyderabad,Laptop,Electronics,2,65000,Online,Aarav,130000
+1002,2026-01-05,Bangalore,Office Chair,Furniture,5,8500,Store,Priya,42500
+1003,2026-01-08,Chennai,Smartphone,Electronics,3,32000,Online,Rahul,96000
+1004,2026-01-12,Mumbai,Desk,Furniture,4,12000,Store,Sneha,48000
+1005,2026-01-15,Delhi,Headphones,Electronics,8,3500,Online,Arjun,28000
+1006,2026-01-19,Pune,Monitor,Electronics,6,18500,Online,Kiran,111000
+1007,2026-01-22,Hyderabad,Keyboard,Accessories,10,2200,Store,Meena,22000
+1008,2026-01-25,Kolkata,Mouse,Accessories,15,1200,Online,Vikram,18000
+1009,2026-02-02,Bangalore,Laptop,Electronics,3,72000,Online,Ananya,216000
+1010,2026-02-06,Chennai,Printer,Electronics,4,14500,Store,Rohit,58000
+1011,2026-02-10,Mumbai,Bookshelf,Furniture,3,9000,Store,Divya,27000
+1012,2026-02-14,Delhi,Tablet,Electronics,5,28000,Online,Aditya,140000
+1013,2026-02-18,Pune,Webcam,Accessories,7,4200,Online,Neha,29400
+1014,2026-02-21,Hyderabad,Desk Lamp,Accessories,12,1800,Store,Sanjay,21600
+1015,2026-02-25,Kolkata,Sofa,Furniture,2,35000,Store,Pooja,70000
+1016,2026-03-03,Bangalore,Smartwatch,Electronics,6,9500,Online,Manish,57000
+1017,2026-03-07,Chennai,Laptop Bag,Accessories,9,2500,Online,Isha,22500
+1018,2026-03-11,Mumbai,Dining Table,Furniture,2,42000,Store,Varun,84000
+1019,2026-03-16,Delhi,Monitor,Electronics,5,21000,Online,Kavya,105000
+1020,2026-03-20,Pune,Keyboard,Accessories,14,2400,Store,Nikhil,33600
+1021,2026-04-02,Hyderabad,Smartphone,Electronics,4,38000,Online,Lakshmi,152000
+1022,2026-04-06,Bangalore,Office Chair,Furniture,7,7800,Store,Harish,54600
+1023,2026-04-10,Chennai,Headphones,Electronics,10,3200,Online,Swathi,32000
+1024,2026-04-15,Mumbai,Printer,Electronics,3,16000,Store,Rakesh,48000
+1025,2026-04-20,Delhi,Mouse,Accessories,20,1100,Online,Nandini,22000
+1026,2026-05-03,Pune,Tablet,Electronics,4,30000,Online,Abhishek,120000
+1027,2026-05-08,Hyderabad,Bookshelf,Furniture,5,10500,Store,Asha,52500
+1028,2026-05-13,Kolkata,Webcam,Accessories,8,3900,Online,Suresh,31200
+1029,2026-05-18,Bangalore,Laptop,Electronics,2,68000,Online,Deepika,136000
+1030,2026-05-24,Chennai,Desk,Furniture,6,11500,Store,Mohan,69000
+1031,2026-06-02,Mumbai,Smartwatch,Electronics,7,10200,Online,Riya,71400
+1032,2026-06-07,Delhi,Desk Lamp,Accessories,16,1650,Store,Ajay,26400
+1033,2026-06-12,Pune,Sofa,Furniture,3,32000,Store,Shreya,96000
+1034,2026-06-18,Hyderabad,Monitor,Electronics,4,19500,Online,Karthik,78000
+1035,2026-06-25,Kolkata,Laptop Bag,Accessories,11,2300,Online,Maya,25300
+1036,2026-07-03,Bangalore,Smartphone,Electronics,5,35500,Online,Ravi,177500
+1037,2026-07-09,Chennai,Dining Table,Furniture,2,45000,Store,Sonal,90000
+1038,2026-07-14,Mumbai,Keyboard,Accessories,18,2100,Store,Amit,37800
+1039,2026-07-20,Delhi,Printer,Electronics,5,15000,Online,Preeti,75000
+1040,2026-07-27,Pune,Office Chair,Furniture,9,8200,Store,Gaurav,73800
+1041,2026-08-04,Hyderabad,Tablet,Electronics,6,29000,Online,Sowmya,174000
+1042,2026-08-09,Bangalore,Headphones,Electronics,12,3400,Online,Naveen,40800
+1043,2026-08-15,Chennai,Mouse,Accessories,25,1150,Store,Bhavana,28750
+1044,2026-08-21,Mumbai,Desk,Furniture,5,12500,Store,Yash,62500
+1045,2026-08-28,Delhi,Laptop,Electronics,3,70000,Online,Aditi,210000
+1046,2026-09-03,Pune,Webcam,Accessories,10,4100,Online,Sameer,41000
+1047,2026-09-08,Hyderabad,Sofa,Furniture,2,36000,Store,Tanvi,72000
+1048,2026-09-12,Kolkata,Smartwatch,Electronics,8,9800,Online,Ramesh,78400
+1049,2026-09-17,Bangalore,Monitor,Electronics,7,20500,Online,Chaitanya,143500
+1050,2026-09-21,Chennai,Bookshelf,Furniture,4,9500,Store,Keerthi,38000
